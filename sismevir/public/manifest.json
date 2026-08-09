@@ -1,0 +1,13 @@
+{
+  "name": "SISMeViR — Sistema Método Vida Real",
+  "short_name": "SISMeViR",
+  "description": "Contando histórias através do esporte.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0b",
+  "theme_color": "#0a0a0b",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/brand/logo-gilmar-videos.png", "sizes": "500x500", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
